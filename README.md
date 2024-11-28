@@ -6,7 +6,7 @@ Doc._of_small_office[1].docx 👉 documentation as Word
 
 Doc._of_small_office[1].pdf 👉 documentation as PDF
 
-Small Office Graduation Project Presentation.pptx Small Office Graduation Project Presentation 👉 Project Presentation
+Small Office Graduation Project Presentation.pptx 👉 Project Presentation
 
 Final Project.pkt 👉 The Project Packet Tracer
 
